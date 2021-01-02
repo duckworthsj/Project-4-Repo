@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "base.css",
+	"sources": [
+		"../../scss/base.scss"
+	],
+	"sourcesContent": [
+		"@import \"_normalize.css\";"
+	],
+	"names": [],
+	"mappings": "AAAA,OAAO,CAAP,mBAAO"
+}
