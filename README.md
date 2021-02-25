@@ -1,2 +1,2 @@
-# Project-4-Repo
+# Web-Style-Guide
 Style guide using SASS
