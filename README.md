@@ -1,2 +1,2 @@
 # Project-4-Repo
-Treehouse FWD Project 4
+Style guide using SASS
